@@ -62,6 +62,8 @@ navigate to the port that your terminal species in you browser example: localhos
 
 --- 
 ## Note: Model not inlcuded in this repo
-Please not that the model has not been included in this repo because of storage limitations that github imposes. To get the model run the notbook included in the folder NER-model-implementation. Also the model is available on kaggle at the following link. 
+Please not that the model has not been included in this repo because of storage limitations that github imposes. To get the model run the notbook included in the folder NER-model-implementation. Also the model is available on kaggle at the following Kaggle link. A fully ready version is available to the follwoing Google Drive link
 
-https://www.kaggle.com/code/elmerh14/auto-tagger
+Kaggle link: https://www.kaggle.com/code/elmerh14/auto-tagger
+
+Google Drive link: https://drive.google.com/drive/folders/1uO1OI9CeFc4yaBvabXYzxnEdv1KtTqwR?usp=sharing
