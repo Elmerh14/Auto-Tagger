@@ -59,3 +59,9 @@ pip install -r requirments.txt
 python3 app.py 
 ```
 navigate to the port that your terminal species in you browser example: localhost:3000
+
+--- 
+## Note: Model not inlcuded in this repo
+Please not that the model has not been included in this repo because of storage limitations that github imposes. To get the model run the notbook included in the folder NER-model-implementation. Also the model is available on kaggle at the following link. 
+
+https://www.kaggle.com/code/elmerh14/auto-tagger
